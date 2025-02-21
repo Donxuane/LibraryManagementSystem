@@ -1,0 +1,25 @@
+﻿@model List<Book>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Library Admin</h1>
+
+<p>All It Comes To The Knowledge Of The World.</p>
+<div class="form-group">
+<form asp-action="Index">
+    <input class="form-control" type="text" name="search" placeholder="Search Book" />
+    <button type="submit" class="btn btn-primary">Search Book</button>
+</form>
+</div>
+    <table class="table">
+        @if(Model!=null){
+        @foreach(var m in Model){
+        <tr>@m.Title </tr>
+        <tr>@m.Author </tr>
+        <tr>@m.Genre </tr>
+        <tr>@m.ReleaseDate </tr>
+        }
+        }
+    </table>
+ 

@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>Home</h1>
+
+<div class="Form">
+    <form asp-action="Home">
+        <input type="text" name="userName" placeholder="User Name" style="
+border-radius:10px; border-block-color:rebeccapurple; border-block-start-color:aqua;"/>
+        <h1> </h1>
+        <input type="text" name="password" placeholder="Password" style="
+               border-radius:10px; border-block-color:rebeccapurple; border-block-start-color:aqua;"/>
+        <h1> </h1>
+        <button type="submit" style="border-radius: 10px; margin:10px;
+">Log In</button>
+    </form>
+    <style>
+
+        button:hover{
+            color:blue;
+        }
+        input:hover{
+            color:blue;
+        }
+    </style>
+</div>

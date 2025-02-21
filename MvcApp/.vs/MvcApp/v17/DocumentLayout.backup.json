@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\services\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\services\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\middleware\\getuseripadressmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\middleware\\getuseripadressmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\middleware\\checkauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\middleware\\checkauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\views\\book\\librarybooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\views\\book\\librarybooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|c:\\users\\vaxtangi\\desktop\\ol!\\assignments\\week12-13\\vakhtangi\\mvcapp\\mvcapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E4167D-592C-47B8-82EE-38BE2E67A711}|MvcApp\\MvcApp.csproj|solutionrelative:mvcapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookServices.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Services\\IBookServices.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Services\\IBookServices.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Services\\IBookServices.cs",
+              "RelativeToolTip": "MvcApp\\Services\\IBookServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:54:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MvcApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MvcApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T13:28:44.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:43:51.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-23T20:11:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "MvcApp\\Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "MvcApp\\Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T14:12:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "MvcApp\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "MvcApp\\Views\\Book\\AddBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:16:05.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Services\\BookServices.cs",
+              "RelativeToolTip": "MvcApp\\Services\\BookServices.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:54:24.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetUserIpAdressMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Middleware\\GetUserIpAdressMiddleware.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Middleware\\GetUserIpAdressMiddleware.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Middleware\\GetUserIpAdressMiddleware.cs",
+              "RelativeToolTip": "MvcApp\\Middleware\\GetUserIpAdressMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:05:56.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckAuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Middleware\\CheckAuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Middleware\\CheckAuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Middleware\\CheckAuthenticationMiddleware.cs",
+              "RelativeToolTip": "MvcApp\\Middleware\\CheckAuthenticationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:36:30.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Program.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Program.cs",
+              "RelativeToolTip": "MvcApp\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:19:15.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "MvcApp\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:07:18.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:46:27.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Models\\User.cs",
+              "RelativeToolTip": "MvcApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:34:19.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T12:36:14.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "MvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "MvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-26T12:45:23.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MvcApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MvcApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-23T16:34:29.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibraryBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Book\\LibraryBooks.cshtml",
+              "RelativeDocumentMoniker": "MvcApp\\Views\\Book\\LibraryBooks.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\Book\\LibraryBooks.cshtml",
+              "RelativeToolTip": "MvcApp\\Views\\Book\\LibraryBooks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T12:20:17.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "MvcApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Models\\Book.cs",
+              "RelativeToolTip": "MvcApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:49:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T15:08:47.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MvcApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\vaxtangi\\Desktop\\OL!\\Assignments\\Week12-13\\Vakhtangi\\MvcApp\\MvcApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MvcApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T15:08:45.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
